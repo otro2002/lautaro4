@@ -55,11 +55,7 @@ python inference_realesrgan.py -n RealESRGAN_x4plus -i inputs --face_enhance
 
 Results are in the `results` folder
 
-#### Inference anime images
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xinntao/public-figures/master/Real-ESRGAN/cmp_realesrgan_anime_1.png">
-</p>
 
 Pre-trained models: [RealESRGAN_x4plus_anime_6B](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth)<br>
  More details and comparisons with [waifu2x](https://github.com/nihui/waifu2x-ncnn-vulkan) are in [**anime_model.md**](docs/anime_model.md)
